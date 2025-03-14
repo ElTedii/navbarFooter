@@ -1,0 +1,33 @@
+*{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+}
+
+#logo{
+    width: 75px;
+    height: 75px;
+    margin-left: 15px;
+}
+
+main{
+    display: flex;
+    margin-bottom: 10px;
+    margin-left: 180px;
+    margin-top: 50px;
+}
+
+footer{
+    text-align: center;
+    background: url(Resources/bg.jpg);
+    padding: 20px;
+}
+
+footer img{
+    width: 150px;
+    height: 150px;
+}
+
+#Copyright{
+    color:#F3F5FC;
+    font-size: 25px;
+}
